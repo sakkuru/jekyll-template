@@ -14,5 +14,5 @@ defaults:
       path: "" 
     values:
       layout: "page"
-      repository: UPnP-Device-Architecture-2.0
-      project: "UPnP Device Architecture 2.0"
+      repository: "" 
+      project: ""
